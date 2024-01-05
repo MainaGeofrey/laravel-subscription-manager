@@ -1,17 +1,16 @@
 {
-    "name": "rokde/laravel-subscription-manager",
+    "name": "recked/laravel-subscription-manager",
     "description": "This is my package SubscriptionManager",
     "keywords": [
         "laravel",
         "subscription",
         "plan"
     ],
-    "homepage": "https://github.com/rokde/laravel_subscription_manager",
+    "homepage": "https://github.com/MainaGeofrey/laravel-subscription-manager",
     "license": "MIT",
     "authors": [
         {
-            "name": "Robert Kummer",
-            "email": "post@robert-kummer.de",
+            "name": "Rick and Morty",
             "role": "Developer"
         }
     ],
